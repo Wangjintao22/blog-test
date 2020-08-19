@@ -13,7 +13,7 @@
 2. 玛玛哈哈
 3. 小典典
 
-学过的编程语言有````html```` ````css```` ````javascript````我写一段给你瞧一下吧。
+学过的编程语言有`html` `css` `javascript`我写一段给你瞧一下吧。
 
     function f(){
     console.log('hello world')
